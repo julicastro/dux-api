@@ -1,1 +1,1 @@
-# dux-api
+Se requiere Bearer Token para acceder a los endpoints 
